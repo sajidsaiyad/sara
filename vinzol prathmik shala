@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>VINZOL PRATHMIK SHALA</title>
+		<LINK rel="stylesheet" href="style1.css">
+	</head>		
+
+	<BODY>
+	   	<h1>wel come sir</h1>
+		<P>  I AM A TEACHER IN VINZOL PRAMARY SCHOOL FOR TWENTY YEARS. IN THESE 20 YEARS I HAVE TRIED MY BEST TO TAKE SCHOOL UPTO THE MARK OF EXCELANCE.</P>
+		<P>  BUT I AM STILL NOT GOT THIS MARK OF SUCCESS WHICH I HAVE IN MY DREAM TO ACHIEVE.</P>
+
+	<form> <input types="text" placeholder="surname";> <input types="name" placeholder="middle name"> <input types="text" placeholder="birthplace"> <input types="number" placeholder="rolenumber"> <button>submit</button></form>
+	
+
+	<table>
+		
+		<tr>
+			<th>name</th>
+			<th> fathers's name</th>
+			<th> surname</th>
+		</tr>
+
+		<tr>
+			<td>sarim</td>
+			<td>sajidali</td>
+			<td>saiyad</td>
+		</tr>
+
+		<tr>
+			<td>sara</td>
+			<td>sajidali</td>
+			<td>saiyad</td>
+		</tr>
+		<tr>
+			<td> laskhmi</td>
+			<td>manishkumar</td>
+			<td>parmar</td>
+		</tr>
+	</table>
+
+	</BODY>
+
+	
+
+			
+</html>
